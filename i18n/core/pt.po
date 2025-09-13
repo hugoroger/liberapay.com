@@ -61,14 +61,14 @@ msgstr "Alterar configurações de e-mail"
 
 #, python-brace-format
 msgid "It's time to renew your donation to {username} on Liberapay"
-msgstr "Está na hora de renovar o seu donativo para {username} no Liberapay"
+msgstr "Está na hora de renovar a sua doação para {username} no Liberapay"
 
 msgid "It's time to renew your donations on Liberapay"
-msgstr "Está na hora de renovar os seu donativos no Liberapay"
+msgstr "Está na hora de renovar as suas doações no Liberapay"
 
 #, python-brace-format
 msgid "Your donation of {amount} to {recipient} is awaiting payment."
-msgstr "O seu donate de {amount} para {recipient} está aguardando o pagamento."
+msgstr "A sua doação no valor de {amount} para {recipient} está aguardando o pagamento."
 
 #, python-brace-format
 msgid "You have {n} donation waiting to be renewed:"
