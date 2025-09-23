@@ -25,7 +25,7 @@ msgid "Someone wants to donate to you on Liberapay"
 msgstr "Alguém quer doar para você no Liberapay"
 
 msgid "Someone wants to donate to you on Liberapay, but you need to fill out the identity form before we can legally start to collect money for you."
-msgstr "Alguém quer doar para você na Liberapay, mas você precisa preencher o formulário de identidade antes que legalmente podemos começar a recolher dinheiro para você."
+msgstr "Alguém quer doar para você na Liberapay, mas você precisa preencher o formulário de identidade antes que legalmente possamos começar a recolher dinheiro para você."
 
 msgid "If you do not wish to receive donations on Liberapay, you can reject them by editing your profile accordingly."
 msgstr "Se você não deseja receber doações na Liberapay, você pode rejeitá-las editando seu perfil nesse sentido."
@@ -39,10 +39,10 @@ msgstr "Você recebeu esta semana {0}"
 
 #, python-brace-format
 msgid "{0} were given to you personally."
-msgstr "{0} foram dadas a você pessoalmente."
+msgstr "{0} foram dados a você pessoalmente."
 
 msgid "You are not a member of any team, so you haven't received any money for participation in teams."
-msgstr "Você não é um membro de qualquer equipe, então você ainda não recebeu qualquer dinheiro para a participação em equipes."
+msgstr "Você não é um membro de uma equipe, então você ainda não recebeu qualquer dinheiro para a participação em equipes."
 
 #, python-brace-format
 msgid "No money was given to you for your role in the {0} team."
